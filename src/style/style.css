@@ -828,7 +828,7 @@ section:nth-of-type(3) #gallery .mix:nth-child(5) .card {
 }
 
 section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
-    background: url("../images/thumb-6.jpg") center center/cover;
+    background: url("../images/thumb-6.jp2") center center/cover;
 }
 
 section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
@@ -841,18 +841,6 @@ section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
 
 section:nth-of-type(3) #gallery .mix:nth-child(9) .card {
     background: url("../images/thumb-9.jpg") center center/cover;
-}
-
-section:nth-of-type(3) #gallery .mix:nth-child(10) .card {
-    background: url("../images/thumb-10.jpg") center center/cover;
-}
-
-section:nth-of-type(3) #gallery .mix:nth-child(11) .card {
-    background: url("../images/thumb-11.jpg") center center/cover;
-}
-
-section:nth-of-type(3) #gallery .mix:nth-child(12) .card {
-    background: url("../images/thumb-12.jpg") center center/cover;
 }
 
 section:nth-of-type(3) #gallery .mix .card {
@@ -1493,5 +1481,3 @@ footer .footnote .highlight {
         width: 270px;
     }
 }
-
-/*# sourceMappingURL=style.css.map */
